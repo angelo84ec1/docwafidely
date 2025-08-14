@@ -1,0 +1,293 @@
+{
+  "pages": {
+    "landing": {
+      "hero": {
+        "firstTitle": "Desenvolvedores web, aplicativos e plugins com UI/UX",
+        "secondTitle": "Soluções tecnológicas inovadoras",
+        "thirdTitle": "Desenvolvedores digitais especializados",
+        "firstDescription": "Programadores Full Stack Web com mais de 14 anos de experiência e 300 projetos web, apps, integrações desenvolvidos a nível nacional e internacional",
+        "secondDescription": "Criamos aplicativos e soluções personalizadas que impulsionam o crescimento do seu negócio",
+        "thirdDescription": "Desenvolvimento de software de alta qualidade adaptado às suas necessidades específicas",
+        "firstSubtitle": "Acompanhamos Startups e Fintech para o seu crescimento",
+        "secondSubtitle": "Transformando ideias em soluções digitais",
+        "thirdSubtitle": "Desenvolvimento personalizado para o seu negócio",
+        "button": "Contate-nos"
+      },
+      "pricing": {
+        "cardOne": {
+          "title": "Profissionais Pro"
+        },
+        "cardTwo": {
+          "title": "Aplicativos Criados"
+        },
+        "cardThree": {
+          "title": "Aplicativos Web Criados"
+        },
+        "cardFour": {
+          "title": "Treinamento de IA"
+        }
+      },
+      "about": {
+        "title": "Você quer que ajudemos você a desenvolver ?",
+        "description": "Contamos com uma grande equipe de profissionais em diversas tecnologias"
+      },
+      "member": {
+        "title": "Temos conhecimento de uma variedade de ferramentas para Devs",
+        "description": "Especialistas em Backend, Frontend, UI/UX, Treinamento em IA, Cloud Architects, Devops e Full Stack e muito mais",
+        "cards": [
+          {
+            "title": "Unimos suas ideias e geramos Mockups",
+            "description": "Chegaremos à sua ideia a partir de wireframes, mockups e protótipos"
+          },
+          {
+            "title": "Nós criamos agentes de IA eficientes",
+            "description": "Temos especialistas em desenvolvimento de IA para levar sua ideia à escala."
+          },
+          {
+            "title": "Trabalhamos de forma Híbrida",
+            "description": "Nossas ferramentas de comunicação são Slack, Trello, WhatsApp, Google Meet, Github e pessoalmente no Equador e no México."
+          },
+          {
+            "title": "Suporte Completo",
+            "description": "Estamos abertos de segunda a sexta-feira, das 7h00 às 18h00 (GMT-5)"
+          }
+        ],
+        "button": "Ver planos"
+      },
+      "wapp": {
+        "title": "Clientes Wappi",
+        "description": "Desde 2009"
+      },
+
+      "portafolio": {
+        "amc": "Portfólio de Sistemas Web, Aplicativos e Treinamento em IA",
+        "description": "Diversidade de linguagens de desenvolvimento"
+    
+      },
+
+      "example": {
+        "colmena": "Desenvolvimento e Integração Web",
+        "colmena2": "ERP",
+        "description": "Desenvolvimento de mockups de UI/UX, desenvolvimento de sites de comércio eletrônico, criação de APIs e integração de ERP do cliente. "
+    
+      },
+
+      "price": {
+        "colmena": "Solução Rango Valor:",
+        "time": "Tempo:",
+        "description": "30 - 90 días calendario"
+      },
+
+   
+
+      "example2": {
+        "amc2": "Desenvolvimento Web + IA + Integração ERP ",
+        "amc3": "Coris EC",
+        "description": "Desenvolvimento de mockup de UI/UX, desenvolvimento de web para comércio eletrônico, criação de API e integração com o ERP Coris Ecuador para assistência. "
+    
+      },
+
+      "price2": {
+        "amc4": "Solução Rango Valor:",
+        "time": "Tempo:",
+        "description": "30 - 90 dias do calendário"
+      },
+
+      "example3": {
+        "lexcob": "Tarefas de desenvolvimento de CRM e",
+        "lexcob1": "Subtarefas",
+        "description": "Desenvolvimento e criação de mockups para módulos de usuário, tarefas e subtarefas, importação de informações de modelos CSV, notificações por e-mail para tarefas concluídas, download de relatórios de status de tarefas CSV e um desktop com gráficos de porcentagem."
+    
+      },
+
+      "price3": {
+        "lexcob2": "Solução Rango Valor:",
+        "time": "Tempo:",
+        "description": "80 - 240 dias do calendário"
+      },
+
+      "example4": {
+        "imvab": "Integração da API Woocommerce com Sap Business",
+        "imvab1": "One",
+        "description": "Desenvolvimento de script para integrar produtos WooCommerce no SAP Business One de maneira bidirecional com campos de código, preço, imagem, imposto e estoque."
+    
+      },
+
+      "price4": {
+        "imvab2": "Solução Rango Valor:",
+        "time": "Tempo:",
+        "description": "30 - 90 do calendário"
+      },
+
+
+      "example5": {
+        "igo": "Criação de Mockups, protótipos, desenvolvimento de aplicativos Android e",
+        "igo1": "IOS",
+        "description": "Desenvolvimento de aplicativo móvel para encontrar associados em diversas profissões, classificação de taxa de aceitação de currículos usando APIs ChatGpt, Lambda e Firbase, e mobilização de associados na Igo Cars."
+    
+      },
+
+      "price5": {
+        "igo2": "Solução Rango Valor:",
+        "time": "Tempo:",
+        "description": "290 - 366 do calendário"
+      },
+
+      "example6": {
+        "lino": "Criação de Mockups, protótipos, desenvolvimento de aplicativos Android e",
+        "lino1": "iOS e Web",
+        "description": "Desenvolvimento de uma aplicação móvel e web para publicação de serviços imobiliários e profissionais"
+    
+      },
+
+      "price6": {
+        "lino2": "Solução Rango Valor:",
+        "time": "Tempo:",
+        "description": "90 - 120 do calendário"
+      },
+
+      "example7": {
+        "wafidely": "Creación Mockups, prototipo, desarrollo web ",
+        "wafidely1": "SAAS",
+        "description": "Desenvolvimento de sistema web SaaS para agendamento de consultas, criação automática de landing pages, bot para WhatsApp, Facebook e Instagram com IA LLM "
+    
+      },
+
+      "price7": {
+        "wafidely2": "Rango Valor Solución:",
+        "time": "Tiempo:",
+        "description": "120 - 180 días calendario"
+      },
+
+
+
+      "procesos": {
+        "wappiad": "Metodologia Agile Scrum em cada projeto",
+        "description": "Metodologia Agile Scrum em cada projeto"
+    
+      },
+
+      "versiculo": {
+        "mateo": "Se você pode crer, todas as coisas são possíveis ao que crê.",
+        "description": "Se você pode crer, todas as coisas são possíveis ao que crê."
+    
+      },
+
+
+      "faq": {
+        "title": "Não fique com dúvidas",
+        "description": "Caso tenha outras preocupações, agende uma consulta.",
+        "subscription_validity": {
+          "question": "Tenho uma ideia exclusiva para desenvolver, é possível que seja confidencial?",
+          "answer": "Sim, mantemos estrita confidencialidade das ideias dos nossos clientes, assinamos documentos de confidencialidade"
+        },
+        "what_is_wafidely": {
+          "question": "Você consegue fazer desenvolvimento complexo de web, aplicativos e IA?",
+          "answer": "Sim, foram realizados desenvolvimentos de alta complexidade, contamos com uma equipe de especialistas em tecnologia de ponta"
+        },
+        "uses_ai": {
+          "question": "Você está atualizado sobre a implementação e integração da Inteligência Artificial?",
+          "answer": "Sim, desenvolvemos sistemas integrados com IA há mais de 2 anos. É preciso fazer uma análise para determinar como cada projeto pode se beneficiar e qual ferramenta é ideal entre as diversas existentes, que atualmente não são apenas o ChatGPT."
+        },
+        "use_my_business_whatsapp_number": {
+          "question": "Você pode integrar sistemas robustos do tipo Erps, como o SAP Business One?",
+          "answer": "Sim, 2 especialistas em desenvolvimento de complementos SAP Business One, integramos desenvolvimentos personalizados, CMS como Woocommerce e Shopify"
+        },
+        "landing_page_for_marketing_campaigns": {
+          "question": "Você tem planos de financiamento?",
+          "answer": "Depende do valor e do tempo de desenvolvimento; se ultrapassar 50 mil, podemos fazer em 3 ou 4 parcelas."
+        },
+        "whatsapp_notifications_number": {
+          "question": "Vocês têm escritórios físicos?",
+          "answer": "Sim, estamos no setor norte da cidade de Quito, Equador."
+        }
+        
+      }
+    },
+    "planes": {
+      "title": "Serviços",
+      "button": "Comece agora",
+      "time": "ano",
+      "subscriptions": [
+        {
+          "name": "Desenvolver Web à medida",
+          "time": "uma única vez",
+          "details": [
+           "Utilizamos React, Vue ou Angular para Frontend, Next, Lavarel, Firbase para Backend"
+          ],
+          "benefits": [
+           "Desenvolvimento de Mockups de acordo com sua imagem corporativa e de referência",
+           "Melhor desempenho do seu aplicativo ou aplicação web",
+           "Escalável para atingir um grande número de usuários",
+           "Hospedagem ou desenvolvimento em um servidor dedicado AWS ou Google Cloud" 
+          ]
+        },
+        {
+          "name": "Desenvolvimento de Aplicativos",
+          "time": "uma única vez",
+          "details": [
+           "Frontend React Native, Next, Lavarel, Firmbase para Backend"
+          ],
+          "benefits": [
+           "Desenvolvimento de wireframes, mockups e protótipos personalizados de acordo com a imagem corporativa e suas referências",
+           "Para Android e iOS",
+           "Especialistas em desenvolvimento de aplicativos desenvolveram mais de 300",
+           "Informações relevantes sobre o aplicativo serão refletidas no ambiente web"
+          ]
+        },
+        {
+          "name": "Treinamento de Agente de IA",
+          "time": "por mês",
+          "details": [
+            "N8N - API do WhatsApp - Strapi - Langchain - Wafidely"
+          ],
+          "benefits": [
+          "Automatizamos tarefas repetitivas",
+          "Trabalhamos com diferentes plataformas e as integramos por meio de APIs REST",
+          "Usamos tecnologia especializada para cada solução, por exemplo, para transcrição de áudio personalizada (ElevanLabs), Agenda de Compromissos (Google Agenda)",
+          "Otimize seu tempo e concentre-se no que torna seu dia a dia mais produtivo"
+          ]
+        }
+      ]
+    }
+  },
+  "layout": {
+    "header": {
+      "start": "Início",
+      "pricing": "Serviços",
+      "contact": "Contato",
+      "successCases": "Casos de Sucesso",
+      "register": "Registrar",
+      "login": "Entrar"
+    },
+    "footer": {
+      "call_to_action": "Resolva ou crie agora conosco!",
+      "description": "Especialistas multilíngues em Full Stack e IA com pelo menos 3 anos de experiência",
+      "register_button": "AGENDAR REUNIÃO",
+      "company_info": {
+        "title": "Wafidely",
+        "description": "Inteligência de Aplicativos Web e Dados Artificiais - Devops à sua disposição para solucionar ou criar desenvolvimentos de aplicativos e web internacionalmente."
+      },
+      "plans": {
+        "title": "Serviços",
+        "waPyme": "Desenvolvimento Web",
+        "waMedium": "Desenvolvimento de aplicativos móveis",
+        "waLarge": "Treinamento de IA"
+      },
+      "info": {
+        "title": "Informação",
+        "faq": "Perguntas Frequentes",
+        "terms": "Termos e Condições",
+        "support": "Suporte"
+      },
+      "social_media": {
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "tiktok": "TikTok"
+      }
+    },
+    "footer_bottom": {
+      "copyright": "© 2025 Copyright WAPPIAD S.A.S. Todos os direitos reservados"
+    }
+  }
+}

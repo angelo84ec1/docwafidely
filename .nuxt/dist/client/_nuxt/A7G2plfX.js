@@ -1,0 +1,1 @@
+import{_ as t,a,b as o,I as s}from"./Drt1Mpt5.js";const n={name:"DefaultLayout"};function r(e,c,l,f,u,_){return o(),a("div",null,[s(e.$slots,"default")])}const p=t(n,[["render",r]]);export{p as default};
