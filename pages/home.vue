@@ -8,7 +8,7 @@
           <div>
              <!-- Logo Default -->
   <img
-    src="~/assets/images/wafidelynegroturquesaverde.png"
+    src="~/assets/images/wafidelyblanco.png"
     alt="Logo Default"
     class="transition-all duration-300 ease-in-out max-w-[150px] h-auto"
     :class="{ 'opacity-0 hidden': isScrolled }"
@@ -190,10 +190,34 @@
                     Con una cuenta de Wafidely tendrás acceso completo a todas las herramientas de automatización de WhatsApp Business, 
                     gestión de clientes y inteligencia artificial para tu negocio.
                   </p>
+                  <p class="text-wafidely-gray mb-4">
+    Ingresa a la siguiente url: 
+    <a 
+      href="https://ai.wafidely.com/" 
+      target="_blank" 
+      rel="noopener noreferrer"
+      class="text-blue-600 hover:text-blue-800 underline"
+    >
+      https://ai.wafidely.com/
+    </a>
+  </p>
+
+  <div class="flex items-start">
+                        <span class="bg-purple-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold mr-4 mt-1">1</span>
+                        <div class="flex-1">
+                          <h4 class="font-semibold text-wafidely-dark mb-2">Información </h4>
+                          <p class="text-wafidely-gray mb-3">Llena todos los campos que solicita</p>
+                        </div></div>
+                  <img
+    src="~/assets/images/create-count-wafidely.png"
+    alt="Logo Default"
+    class="transition-all duration-300 ease-in-out max-w-auto h-auto"
+    :class="{ 'opacity-0 hidden': isScrolled }"
+  />
                   <div class="grid md:grid-cols-2 gap-4">
                     <div class="bg-white p-4 rounded-lg border border-purple-200">
                       <h4 class="font-semibold text-wafidely-dark mb-2">🚀 Automatización Completa</h4>
-                      <p class="text-sm text-gray-600">Bots inteligentes, flujos personalizados y respuestas automáticas</p>
+                      <p class="text-sm text-gray-600">Bots inteligentes para Whatsapp Business, flujos personalizados y respuestas automáticas</p>
                     </div>
                     <div class="bg-white p-4 rounded-lg border border-purple-200">
                       <h4 class="font-semibold text-wafidely-dark mb-2">📊 Analytics Avanzados</h4>
@@ -205,43 +229,30 @@
                     </div>
                     <div class="bg-white p-4 rounded-lg border border-purple-200">
                       <h4 class="font-semibold text-wafidely-dark mb-2">📱 Multi-canal</h4>
-                      <p class="text-sm text-gray-600">WhatsApp, Telegram, y más plataformas</p>
+                      <p class="text-sm text-gray-600">WhatsApp, Facebook Messanger, Email, Telegram, y más plataformas</p>
                     </div>
                   </div>
                 </div>
   
                 <div class="space-y-6">
-                  <h3 class="text-xl font-semibold text-wafidely-dark">Pasos para Crear tu Cuenta</h3>
+                 
                   
                   <div class="space-y-4">
-                    <div class="border border-gray-200 rounded-lg p-6">
-                      <div class="flex items-start">
-                        <span class="bg-purple-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold mr-4 mt-1">1</span>
-                        <div class="flex-1">
-                          <h4 class="font-semibold text-wafidely-dark mb-2">Registro Inicial</h4>
-                          <p class="text-wafidely-gray mb-3">Visita nuestro sitio web y completa el formulario de registro:</p>
-                          <a href="https://www.wafidely.com/registro" target="_blank" class="inline-flex items-center px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors">
-                            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                              <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"/>
-                            </svg>
-                            Crear Cuenta Gratis
-                          </a>
-                        </div>
-                      </div>
-                    </div>
+                  
   
                     <div class="border border-gray-200 rounded-lg p-6">
                       <div class="flex items-start">
                         <span class="bg-purple-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold mr-4 mt-1">2</span>
                         <div class="flex-1">
-                          <h4 class="font-semibold text-wafidely-dark mb-2">Verificación de Email</h4>
+                          <h4 class="font-semibold text-wafidely-dark mb-2">Llenar campos</h4>
                           <p class="text-wafidely-gray mb-3">Datos requeridos para el registro:</p>
                           <ul class="list-disc list-inside text-sm text-gray-600 space-y-1 ml-4">
-                            <li>Nombre completo</li>
-                            <li>Email corporativo</li>
-                            <li>Número de teléfono</li>
-                            <li>Nombre de tu empresa</li>
-                            <li>Sector/industria</li>
+                            <li>Nombre negocio</li>
+                            <li>Slug de negocio</li>
+                            <li>Nombre de usuario</li>
+                            <li>Email</li>
+                            <li>Usuario</li>
+                            <li>Contraseña</li>
                           </ul>
                         </div>
                       </div>
@@ -264,29 +275,14 @@
                             </div>
                             <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-3">
                               <h5 class="font-medium text-wafidely-dark mb-1">Plan de Suscripción</h5>
-                              <p class="text-sm text-gray-600">Selecciona el plan que mejor se adapte a tu negocio</p>
+                              <p class="text-sm text-gray-600">Selecciona el plan que mejor se adapte a tu negocio (5 dias Gratis)</p>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
   
-                    <div class="border border-gray-200 rounded-lg p-6">
-                      <div class="flex items-start">
-                        <span class="bg-purple-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold mr-4 mt-1">4</span>
-                        <div class="flex-1">
-                          <h4 class="font-semibold text-wafidely-dark mb-2">Onboarding y Configuración</h4>
-                          <p class="text-wafidely-gray mb-3">Una vez creada tu cuenta:</p>
-                          <ol class="list-decimal list-inside text-sm text-gray-600 space-y-2 ml-4">
-                            <li>Conecta tu <strong>WhatsApp Business API</strong></li>
-                            <li>Configura tu <strong>token de OpenAI</strong></li>
-                            <li>Crea tu <strong>primer flujo de conversación</strong></li>
-                            <li>Personaliza mensajes y respuestas automáticas</li>
-                            <li>¡Comienza a automatizar tu negocio!</li>
-                          </ol>
-                        </div>
-                      </div>
-                    </div>
+                
                   </div>
                 </div>
   
@@ -294,29 +290,53 @@
                   <h3 class="text-xl font-semibold text-wafidely-dark mb-4">Planes Disponibles</h3>
                   <div class="grid md:grid-cols-3 gap-4">
                     <div class="bg-white p-4 rounded-lg border border-green-200">
-                      <h4 class="font-semibold text-wafidely-dark mb-2">🆓 Plan Gratuito</h4>
+                      <h4 class="font-semibold text-wafidely-dark mb-2">🆓 WAPyme</h4>
                       <ul class="text-sm text-gray-600 space-y-1">
-                        <li>• 100 mensajes/mes</li>
-                        <li>• 1 bot básico</li>
-                        <li>• Soporte por email</li>
+                        <li>• Recordatorio automático de tareas o citas Whatsapp hasta 100 (Envío - Respuesta Api Oficial Wafidely)</li>
+                        <li>• Constructor de Flujo de Bot con Qr Whatsapp Business o Api Whatsapp</li>
+                        <li>• Reporte de citas confirmadas y canceladas</li>
+                        <li>• Creación de Prompts para Bot en Whatsapp hasta 140 conversaciones x mes</li>
+                        <li>• 17000 - 20000 Token de respuestas con IA (Open IA)</li>
+                        <li>• Envío de campañas a Whatsapp hasta 500 contactos, se recomienda enviar por hora de 250 a 280 contactos para no ser baneado el número de whatsapp</li>
+
+
+
+
+
                       </ul>
                     </div>
                     <div class="bg-white p-4 rounded-lg border border-green-200 ring-2 ring-wafidely-blue">
-                      <h4 class="font-semibold text-wafidely-dark mb-2">⭐ Plan Pro</h4>
+                      <h4 class="font-semibold text-wafidely-dark mb-2">⭐ WAMedium</h4>
                       <ul class="text-sm text-gray-600 space-y-1">
-                        <li>• 5,000 mensajes/mes</li>
-                        <li>• Múltiples bots con IA</li>
-                        <li>• Analytics avanzados</li>
-                        <li>• Soporte prioritario</li>
+                        <li>• Recordatorio automático de tareas o citas Whatsapp hasta 300 (Envío - Respuesta Api Oficial Wafidely)</li>
+                        <li>• Constructor de Flujo de Bot con Qr Whatsapp Business o Api Whatsapp</li>
+                        <li>• Reporte de citas confirmadas y canceladas</li>
+                        <li>• Creación de Prompts para Bot en Whatsapp hasta 350 conversaciones x mes</li>
+                        <li>• 20000 - 29000 Token de respuestas con IA (Open IA)</li>
+                        <li>• Envío de campañas a Whatsapp hasta 1000 contactos, se recomienda enviar por hora de 250 a 280 contactos para no ser baneado el número de whatsapp</li>
+                     
+                     
+                     
+                     
+        
+                     
+                     
                       </ul>
                     </div>
                     <div class="bg-white p-4 rounded-lg border border-green-200">
-                      <h4 class="font-semibold text-wafidely-dark mb-2">🚀 Plan Enterprise</h4>
+                      <h4 class="font-semibold text-wafidely-dark mb-2">🚀 WALarge</h4>
                       <ul class="text-sm text-gray-600 space-y-1">
-                        <li>• Mensajes ilimitados</li>
-                        <li>• API personalizada</li>
-                        <li>• Integraciones custom</li>
-                        <li>• Soporte dedicado</li>
+                        <li>• Recordatorio automático de tareas o citas Whatsapp hasta 100 (Envío - Respuesta Api Oficial Wafidely)</li>
+                        <li>• Constructor de Flujo de Bot con Qr Whatsapp Business o Api Whatsapp</li>
+                        <li>• Reporte de citas confirmadas y canceladas</li>
+                        <li>• Creación de Prompts para Bot en Whatsapp hasta 720 conversaciones x mes</li>
+                        <li>• 29000 - 67000 Token de respuestas con IA (Open IA)</li>
+                        <li>• Envío de campañas a Whatsapp hasta 5000 contactos, se recomienda enviar por hora de 250 a 280 contactos para no ser baneado el número de whatsapp</li>
+                     
+                      
+                      
+                      
+                      
                       </ul>
                     </div>
                   </div>
@@ -325,21 +345,24 @@
                 <div class="bg-blue-50 border border-blue-200 rounded-xl p-6 text-center">
                   <h3 class="text-xl font-semibold text-wafidely-dark mb-4">¿Necesitas Ayuda?</h3>
                   <p class="text-wafidely-gray mb-4">
-                    Nuestro equipo está listo para ayudarte con la configuración inicial y responder todas tus preguntas.
+                    Nuestro equipo está listo para ayudarte con la configuración inicial y responder todas tus preguntas sin compromiso y GRATIS (45 minutos de asesoría).
                   </p>
                   <div class="space-x-4">
-                    <a href="https://wa.me/1234567890" target="_blank" class="inline-flex items-center px-4 py-2 bg-wafidely-green text-white rounded-lg hover:bg-wafidely-dark-green transition-colors">
+                    <a href="https://wa.me/+593983314957" target="_blank" class="inline-flex items-center px-4 py-2 bg-wafidely-green text-white rounded-lg hover:bg-wafidely-dark-green transition-colors">
                       <svg class="w-4 h-4 mr-2" viewBox="0 0 24 24" fill="currentColor">
                         <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.890-5.335 11.893-11.893A11.821 11.821 0 0020.465 3.516"/>
                       </svg>
                       Chat WhatsApp
                     </a>
-                    <a href="mailto:soporte@wafidely.com" class="inline-flex items-center px-4 py-2 bg-wafidely-blue text-white rounded-lg hover:bg-wafidely-dark-blue transition-colors">
+                    <a href="https://wafidely.com/aiembudo/689370f31ba36e68f0bae824" class="inline-flex items-center px-4 py-2 bg-wafidely-blue text-white rounded-lg hover:bg-wafidely-dark-blue transition-colors">
                       <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                        <path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
-                      </svg>
-                      Email Soporte
-                    </a>
+    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+    <line x1="16" y1="2" x2="16" y2="6"></line>
+    <line x1="8" y1="2" x2="8" y2="6"></line>
+    <line x1="3" y1="10" x2="21" y2="10"></line>
+  </svg>
+  Agendar Soporte de Lunes a Viernes
+</a>
                   </div>
                 </div>
               </div>
@@ -761,15 +784,15 @@ const keywords = {
                 <div class="space-y-4">
                   <div class="flex items-start">
                     <span class="bg-blue-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-1">1</span>
-                    <p class="text-wafidely-gray">Ve a tu <strong>Panel de Wafidely</strong></p>
+                    <p class="text-wafidely-gray">Ve a tu <strong>Panel izquierdo de Wafidely</strong></p>
                   </div>
                   <div class="flex items-start">
                     <span class="bg-blue-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-1">2</span>
-                    <p class="text-wafidely-gray">Navega a <strong>Configuración → Integraciones</strong></p>
+                    <p class="text-wafidely-gray">Navega a <strong>Settings → AI Credentials</strong></p>
                   </div>
                   <div class="flex items-start">
                     <span class="bg-blue-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-1">3</span>
-                    <p class="text-wafidely-gray">Pega tu token en el campo <strong>"OpenAI API Key"</strong></p>
+                    <p class="text-wafidely-gray">Selecciona Add Credintials → Llena los campos → Pega tu token en el campo <strong>"OpenAI API Key"</strong></p>
                   </div>
                   <div class="flex items-start">
                     <span class="bg-blue-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-1">4</span>
