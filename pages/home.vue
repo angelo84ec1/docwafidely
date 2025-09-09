@@ -792,7 +792,7 @@ const keywords = {
                   </div>
                   <div class="flex items-start">
                     <span class="bg-blue-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-1">3</span>
-                    <p class="text-wafidely-gray">Selecciona Add Credintials → Llena los campos → Pega tu token en el campo <strong>"OpenAI API Key"</strong></p>
+                    <p class="text-wafidely-gray">Selecciona Add Credentials → Llena los campos → Pega tu token en el campo <strong>"OpenAI API Key"</strong></p>
                   </div>
                   <div class="flex items-start">
                     <span class="bg-blue-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-bold mr-3 mt-1">4</span>
